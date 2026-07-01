@@ -35,7 +35,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshan-vyas-dev&show_icons=true&theme=radical" alt="Roshan's GitHub Stats" height="165"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=roshan-vyas-dev&show_icons=true&theme=radical" alt="" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=roshan-vyas-dev&theme=radical" alt="Roshan's GitHub Streak" height="165"/>
 </p>
 
