@@ -1,24 +1,23 @@
-<h1 align="center">Hi 👋, I'm Roshan Vyas</h1>
-<h3 align="center">Aspiring Full Stack Developer | MERN Stack</h3>
+<h1 align="center">Roshan Vyas</h1>
+<h3 align="center">Full Stack Developer | MERN Stack</h3>
 
 <p align="center">
-  🌱 Currently learning <b>MongoDB, Express.js, React, Node.js</b><br/>
-  💼 Actively looking for opportunities as a Frontend / Full Stack Developer<br/>
-  📫 Reach me at <b>roshan.vyas.dev@gmail.com</b>
+  Building full-stack web applications with MongoDB, Express.js, React, and Node.js.<br/>
+  Actively looking for opportunities as a Frontend / Full Stack Developer.<br/>
+  Reach me at <b>roshan.vyas.dev@gmail.com</b>
 </p>
 
----
+<br/>
 
-### 🚀 About Me
+## About
 
-- 🔭 I'm currently building projects using the **MERN stack**
-- 🌱 Learning: React Hooks, REST APIs, Authentication (JWT), MongoDB schema design
-- 🤝 Open to internships / entry-level roles in Web Development
-- ⚡ Fun fact: I enjoy turning small ideas into working web apps
+I'm a B.Com graduate who transitioned into software development through hands-on MERN stack training, including a project-based internship at Luminar Technolab. I'm currently building independent projects — including a peer code review platform with AI-assisted feedback, and a real-time collaborative study tracker — to strengthen my full-stack skills.
 
----
+I'm comfortable across the stack: building responsive React interfaces, designing REST APIs with Express and Node, and structuring MongoDB schemas for real application data.
 
-### 🛠️ Tech Stack
+<br/>
+
+## Tech Stack
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -30,18 +29,18 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+<br/>
 
-### 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=roshan-vyas-dev&show_icons=true&theme=radical" alt="" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=roshan-vyas-dev&theme=radical" alt="Roshan's GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=roshan-vyas-dev&show_icons=true&theme=radical" alt="" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=roshan-vyas-dev&theme=radical" alt="" height="165"/>
 </p>
 
----
+<br/>
 
-### 🔗 Connect with Me
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/roshan-vyas-dev/" target="_blank">
@@ -51,7 +50,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
----
-
-<p align="center"><i>Thanks for visiting my profile! 🚀</i></p>
